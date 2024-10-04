@@ -1,0 +1,478 @@
+state,data_year,dq_assessment,missing_pct,n_pop,Medicaid_expanded,n_miss,mco_n,mco_pct
+Alabama,2014,High concern,47.5,1308578,Not Adopted,621574.55,N/A,N/A
+Alaska,2014,Low concern,3.9,161379,Adopted,6293.781,N/A,N/A
+Arizona,2014,Excluded,NA,NA,Adopted,NA,1317463,N/A
+Arkansas,2014,Excluded,NA,NA,Adopted,NA,N/A,N/A
+California,2014,Excluded,NA,NA,Adopted,NA,7811712,N/A
+Colorado,2014,High concern,43.4,1370174,Adopted,594655.516,63473,N/A
+Connecticut,2014,Excluded,NA,NA,Adopted,NA,N/A,N/A
+Delaware,2014,Low concern,0,282197,Adopted,0,195974,N/A
+District of Columbia,2014,Medium concern,17.6,101077,Adopted,17789.552,172308,N/A
+Florida,2014,Medium concern,12.4,4850366,Not Adopted,601445.384,2658159,N/A
+Georgia,2014,Excluded,NA,NA,Not Adopted,NA,1345813,N/A
+Hawaii,2014,Excluded,NA,NA,Adopted,NA,316354,N/A
+Idaho,2014,Excluded,NA,NA,Adopted,NA,N/A,N/A
+Illinois,2014,Low concern,7.5,3730493,Adopted,279786.975,439899,N/A
+Indiana,2014,Excluded,NA,NA,Adopted,NA,737122,N/A
+Iowa,2014,Excluded,NA,NA,Adopted,NA,58285,N/A
+Kansas,2014,Unusable,79.5,501260,Not Adopted,398501.7,356271,N/A
+Kentucky,2014,Excluded,NA,NA,Adopted,NA,1081673,N/A
+Louisiana,2014,Excluded,NA,NA,Adopted,NA,418174,N/A
+Maine,2014,Low concern,9.8,359878,Adopted,35268.044,N/A,N/A
+Maryland,2014,Medium concern,15,1506949,Adopted,226042.35,1084437,N/A
+Massachusetts,2014,Excluded,NA,NA,Adopted,NA,799768,N/A
+Michigan,2014,Excluded,NA,NA,Adopted,NA,1831208,N/A
+Minnesota,2014,Excluded,NA,NA,Adopted,NA,791004,N/A
+Mississippi,2014,Excluded,NA,NA,Not Adopted,NA,155124,N/A
+Missouri,2014,Excluded,NA,NA,Adopted,NA,388857,N/A
+Montana,2014,Low concern,5.7,165636,Adopted,9441.252,N/A,N/A
+Nebraska,2014,Unusable,100,308874,Adopted,308874,183497,N/A
+Nevada,2014,Low concern,4.3,688451,Adopted,29603.393,360195,N/A
+New Hampshire,2014,Low concern,3.7,225099,Adopted,8328.663,121161,N/A
+New Jersey,2014,Excluded,NA,NA,Adopted,NA,1314180,N/A
+New Mexico,2014,Low concern,1.2,842188,Adopted,10106.256,579530,N/A
+New York,2014,Excluded,NA,NA,Adopted,NA,4285165,N/A
+North Carolina,2014,Low concern,1.6,2243279,Adopted,35892.464,N/A,N/A
+North Dakota,2014,Low concern,4.3,97306,Adopted,4184.158,11713,N/A
+Ohio,2014,Excluded,NA,NA,Adopted,NA,2027590,N/A
+Oklahoma,2014,Excluded,NA,NA,Adopted,NA,N/A,N/A
+Oregon,2014,Excluded,NA,NA,Adopted,NA,827939,N/A
+Pennsylvania,2014,Excluded,NA,NA,Adopted,NA,1668071,N/A
+Puerto Rico,2014,Excluded,NA,NA,NA,NA,1459263,N/A
+Rhode Island,2014,Unusable,100,328044,Adopted,328044,217540,N/A
+South Carolina,2014,Excluded,NA,NA,Not Adopted,NA,720327,N/A
+South Dakota,2014,Excluded,NA,NA,Adopted,NA,N/A,N/A
+Tennessee,2014,Excluded,NA,NA,Not Adopted,NA,1288629,N/A
+Texas,2014,Excluded,NA,NA,Not Adopted,NA,3231250,N/A
+Utah,2014,Excluded,NA,NA,Adopted,NA,201356,N/A
+Vermont,2014,Excluded,NA,NA,Adopted,NA,N/A,N/A
+Virgin Islands,2014,Excluded,NA,NA,NA,NA,,
+Virginia,2014,Excluded,NA,NA,Adopted,NA,644720,N/A
+Washington,2014,Excluded,NA,NA,Adopted,NA,1232979,N/A
+West Virginia,2014,Excluded,NA,NA,Adopted,NA,203288,N/A
+Wisconsin,2014,Medium concern,14,1453551,Not Adopted,203497.14,660442,N/A
+Wyoming,2014,Excluded,NA,NA,Not Adopted,NA,N/A,N/A
+Alabama,2015,High concern,48.9,1339745,Not Adopted,655135.305,N/A,N/A
+Alaska,2015,Low concern,4.8,181346,Adopted,8704.608,N/A,N/A
+Arizona,2015,High concern,30.8,2277495,Adopted,701468.46,1471809,N/A
+Arkansas,2015,Excluded,NA,NA,Adopted,NA,N/A,N/A
+California,2015,Excluded,NA,NA,Adopted,NA,9685902,N/A
+Colorado,2015,High concern,44.9,1536802,Adopted,690024.098,66108,N/A
+Connecticut,2015,Excluded,NA,NA,Adopted,NA,N/A,N/A
+Delaware,2015,Low concern,0,284683,Adopted,0,203066,N/A
+District of Columbia,2015,High concern,20.9,171677,Adopted,35880.493,184788,N/A
+Florida,2015,Medium concern,13.1,5154838,Not Adopted,675283.778,3005986,N/A
+Georgia,2015,Excluded,NA,NA,Not Adopted,NA,1357900,N/A
+Hawaii,2015,High concern,19,403634,Adopted,76690.46,336764,N/A
+Idaho,2015,Excluded,NA,NA,Adopted,NA,N/A,N/A
+Illinois,2015,Low concern,6.2,3794934,Adopted,235285.908,1589386,N/A
+Indiana,2015,Low concern,4.1,1705931,Adopted,69943.171,905997,N/A
+Iowa,2015,Excluded,NA,NA,Adopted,NA,59752,N/A
+Kansas,2015,Unusable,79.3,509979,Not Adopted,404413.347,364464,N/A
+Kentucky,2015,High concern,20.3,1584789,Adopted,321712.167,1198540,N/A
+Louisiana,2015,Excluded,NA,NA,Adopted,NA,965955,N/A
+Maine,2015,Low concern,9.4,342923,Adopted,32234.762,N/A,N/A
+Maryland,2015,Medium concern,15.8,1569617,Adopted,247999.486,1018553,N/A
+Massachusetts,2015,High concern,47.2,2355933,Adopted,1112000.376,873682,N/A
+Michigan,2015,Excluded,NA,NA,Adopted,NA,2164405,N/A
+Minnesota,2015,Excluded,NA,NA,Adopted,NA,782454,N/A
+Mississippi,2015,Excluded,NA,NA,Not Adopted,NA,505038,N/A
+Missouri,2015,Excluded,NA,NA,Adopted,NA,462963,N/A
+Montana,2015,Low concern,7.8,186516,Adopted,14548.248,N/A,N/A
+Nebraska,2015,Unusable,100,307310,Adopted,307310,188591,N/A
+Nevada,2015,Low concern,4.5,807361,Adopted,36331.245,390232,N/A
+New Hampshire,2015,Low concern,6,254906,Adopted,15294.36,161411,N/A
+New Jersey,2015,Excluded,NA,NA,Adopted,NA,1541901,N/A
+New Mexico,2015,Low concern,1.6,921644,Adopted,14746.304,648295,N/A
+New York,2015,Excluded,NA,NA,Adopted,NA,4647584,N/A
+North Carolina,2015,Low concern,1.3,2368999,Adopted,30796.987,N/A,N/A
+North Dakota,2015,Low concern,3.1,95881,Adopted,2972.311,18788,N/A
+Ohio,2015,Low concern,9.1,3420725,Adopted,311285.975,2276400,N/A
+Oklahoma,2015,Low concern,4.8,1032352,Adopted,49552.896,N/A,N/A
+Oregon,2015,Excluded,NA,NA,Adopted,NA,922992,N/A
+Pennsylvania,2015,Excluded,NA,NA,Adopted,NA,1993748,N/A
+Puerto Rico,2015,Unclassified,51.9,1171795,NA,608161.605,242511,N/A
+Rhode Island,2015,Unusable,100,346744,Adopted,346744,764450,N/A
+South Carolina,2015,High concern,25.1,1434942,Not Adopted,360170.442,N/A,N/A
+South Dakota,2015,Excluded,NA,NA,Adopted,NA,1435862,N/A
+Tennessee,2015,Excluded,NA,NA,Not Adopted,NA,3531645,N/A
+Texas,2015,Medium concern,11,5897006,Not Adopted,648670.66,241631,N/A
+Utah,2015,Excluded,NA,NA,Adopted,NA,N/A,N/A
+Vermont,2015,Excluded,NA,NA,Adopted,NA,753416,N/A
+Virgin Islands,2015,Excluded,NA,NA,NA,NA,,
+Virginia,2015,Low concern,2.6,1418550,Adopted,36882.3,1420767,N/A
+Washington,2015,Medium concern,10.7,2131391,Adopted,228058.837,209958,N/A
+West Virginia,2015,Excluded,NA,NA,Adopted,NA,756021,N/A
+Wisconsin,2015,Medium concern,14.4,1428336,Not Adopted,205680.384,N/A,N/A
+Wyoming,2015,Excluded,NA,NA,Not Adopted,NA,1458819,N/A
+Alabama,2016,Unusable,50.3,1346894,Not Adopted,677487.682,N/A,N/A
+Alaska,2016,Low concern,5.8,209485,Adopted,12150.13,N/A,N/A
+Arizona,2016,High concern,31.1,2376599,Adopted,739122.289,1560972,0.844
+Arkansas,2016,High concern,25.4,1165425,Adopted,296017.95,N/A,N/A
+California,2016,Medium concern,10.1,17904993,Adopted,1808404.293,"10,565,689",0.769
+Colorado,2016,High concern,46.3,1648663,Adopted,763330.969,131693,0.1
+Connecticut,2016,High concern,30,1063425,Adopted,319027.5,N/A,N/A
+Delaware,2016,Low concern,0,295464,Adopted,0,195911,0.886
+District of Columbia,2016,High concern,25,283372,Adopted,70843,180942,0.719
+Florida,2016,Medium concern,13.9,5188304,Not Adopted,721174.256,3186511,0.817
+Georgia,2016,Medium concern,9.8,2496238,Not Adopted,244631.324,"1,218,210",0.68
+Hawaii,2016,High concern,20.5,423241,Adopted,86764.405,354289,0.989
+Idaho,2016,Medium concern,0.5,365381,Adopted,1826.905,N/A,0.008
+Illinois,2016,Low concern,5.5,3744041,Adopted,205922.255,1967553,0.609
+Indiana,2016,Low concern,4.3,1847586,Adopted,79446.198,1078625,0.759
+Iowa,2016,High concern,27.7,818613,Adopted,226755.801,562087,0.9
+Kansas,2016,Unusable,79.4,519144,Not Adopted,412200.336,390398,0.897
+Kentucky,2016,Medium concern,17.5,1655478,Adopted,289708.65,1262610,0.927
+Louisiana,2016,High concern,26.3,1748011,Adopted,459726.893,1263151,0.84
+Maine,2016,Low concern,8.9,331021,Adopted,29460.869,N/A,N/A
+Maryland,2016,Medium concern,17.1,1535849,Adopted,262630.179,1079985,0.815
+Massachusetts,2016,High concern,47.6,2237791,Adopted,1065188.516,870318,0.463
+Michigan,2016,Low concern,9.3,2924441,Adopted,271973.013,2218308,0.499
+Minnesota,2016,Medium concern,18.9,1391607,Adopted,263013.723,814947,0.749
+Mississippi,2016,Unusable,83.5,911051,Not Adopted,760727.585,499365,0.687
+Missouri,2016,Unusable,51.9,1232048,Adopted,639432.912,494392,0.503
+Montana,2016,Medium concern,11.5,276691,Adopted,31819.465,N/A,N/A
+Nebraska,2016,Unusable,100,306246,Adopted,306246,191346,0.784
+Nevada,2016,Low concern,4.3,840868,Adopted,36157.324,401434,0.638
+New Hampshire,2016,Low concern,7.7,260613,Adopted,20067.201,136985,0.662
+New Jersey,2016,Medium concern,11.9,2119072,Adopted,252169.568,1556150,0.927
+New Mexico,2016,Low concern,1.8,971761,Adopted,17491.698,683701,0.774
+New York,2016,High concern,31.2,7997539,Adopted,2495232.168,4506561,0.735
+North Carolina,2016,Low concern,1,2420071,Adopted,24200.71,N/A,0.001
+North Dakota,2016,Low concern,1.7,124090,Adopted,2109.53,21232,0.229
+Ohio,2016,Low concern,9.5,3496151,Adopted,332134.345,2413112,0.799
+Oklahoma,2016,Low concern,4.9,1025552,Adopted,50252.048,N/A,N/A
+Oregon,2016,High concern,21,1427636,Adopted,299803.56,893387,0.806
+Pennsylvania,2016,Low concern,5.2,3326584,Adopted,172982.368,2227383,0.811
+Puerto Rico,2016,Unclassified,45.5,1395684,NA,635036.22,"251,437",0.709
+Rhode Island,2016,Unusable,100,360863,Adopted,360863,742134,0.601
+South Carolina,2016,High concern,29.4,1414594,Not Adopted,415890.636,N/A,N/A
+South Dakota,2016,Low concern,0.1,155276,Adopted,155.276,1556089,0.924
+Tennessee,2016,Unusable,100,1795766,Not Adopted,1795766,3581401,0.884
+Texas,2016,Medium concern,12.1,5953726,Not Adopted,720400.846,244763,0.831
+Utah,2016,High concern,33.7,441697,Adopted,148851.889,N/A,N/A
+Vermont,2016,Medium concern,17.6,226936,Adopted,39940.736,759579,0.684
+Virgin Islands,2016,Excluded,NA,NA,NA,NA,,
+Virginia,2016,Low concern,1.9,1427784,Adopted,27127.896,"1,556,853",0.844
+Washington,2016,Medium concern,10.3,2201406,Adopted,226744.818,390083,0.705
+West Virginia,2016,High concern,20.3,693513,Adopted,140783.139,753583,0.626
+Wisconsin,2016,Medium concern,15.1,1419008,Not Adopted,214270.208,N/A,N/A
+Wyoming,2016,High concern,24.8,106848,Not Adopted,26498.304,1617501,1
+Alabama,2017,Unusable,61.6,1350355,Not Adopted,831818.68,N/A,N/A
+Alaska,2017,Low concern,6.3,233592,Adopted,14716.296,N/A,N/A
+Arizona,2017,High concern,32.1,2339206,Adopted,750885.126,1617558,0.843716015
+Arkansas,2017,High concern,25.6,1190773,Adopted,304837.888,N/A,N/A
+California,2017,Low concern,9.7,17497724,Adopted,1697279.228,10798374,0.798981855
+Colorado,2017,High concern,47.1,1695096,Adopted,798390.216,137240,0.099362297
+Connecticut,2017,High concern,33.8,1084145,Adopted,366441.01,N/A,N/A
+Delaware,2017,Low concern,0,291420,Adopted,0,207997,0.933312094
+District of Columbia,2017,High concern,26,286190,Adopted,74409.4,196704,0.740750225
+Florida,2017,Medium concern,14.3,5289846,Not Adopted,756447.978,3181088,0.812229318
+Georgia,2017,Medium concern,10.8,2497377,Not Adopted,269716.716,1247705,0.688193044
+Hawaii,2017,High concern,21.7,418601,Adopted,90836.417,360905,0.988545196
+Idaho,2017,Medium concern,0.4,372477,Adopted,1489.908,N/A,N/A
+Illinois,2017,Low concern,4.9,3678529,Adopted,180247.921,1884379,0.590239083
+Indiana,2017,Low concern,9,1817760,Adopted,163598.4,1138236,0.771443269
+Iowa,2017,High concern,26.6,819411,Adopted,217963.326,556389,0.892362643
+Kansas,2017,Unusable,80.9,520373,Not Adopted,420981.757,398013,0.955280875
+Kentucky,2017,Medium concern,16.3,1714953,Adopted,279537.339,1251070,0.891547307
+Louisiana,2017,High concern,30.6,1846015,Adopted,564880.59,1377682,0.847263623
+Maine,2017,Low concern,9.2,324318,Adopted,29837.256,N/A,N/A
+Maryland,2017,Medium concern,18.3,1598467,Adopted,292519.461,1161213,0.875673413
+Massachusetts,2017,High concern,48.6,2269231,Adopted,1102846.266,847708,0.452164228
+Michigan,2017,Unusable,93.4,2920823,Adopted,2728048.682,2411048,0.516415407
+Minnesota,2017,Medium concern,19.6,1361672,Adopted,266887.712,846115,0.763987146
+Mississippi,2017,Low concern,9.2,897407,Not Adopted,82561.444,487201,0.687174185
+Missouri,2017,High concern,49.7,1260115,Adopted,626277.155,733120,0.745165602
+Montana,2017,High concern,26.6,378920,Adopted,100792.72,N/A,N/A
+Nebraska,2017,Low concern,7.2,310068,Adopted,22324.896,246472,0.994263677
+Nevada,2017,Low concern,4,867513,Adopted,34700.52,448513,0.685833252
+New Hampshire,2017,Low concern,8.9,259745,Adopted,23117.305,133811,0.654466932
+New Jersey,2017,Medium concern,11.8,2132482,Adopted,251632.876,1559423,0.928842782
+New Mexico,2017,Low concern,1.8,1010141,Adopted,18182.538,695017,0.773130211
+New York,2017,High concern,31.8,8096988,Adopted,2574842.184,4520640,0.740467018
+North Carolina,2017,Low concern,0.9,2509523,Adopted,22585.707,N/A,N/A
+North Dakota,2017,Low concern,0.7,126171,Adopted,883.197,20515,0.22155624
+Ohio,2017,Low concern,9.4,3524710,Adopted,331322.74,2550962,0.827318188
+Oklahoma,2017,Low concern,4.7,1026043,Adopted,48224.021,N/A,N/A
+Oregon,2017,Medium concern,19.3,1364563,Adopted,263360.659,858382,0.804239021
+Pennsylvania,2017,Low concern,5,3454155,Adopted,172707.75,2259379,0.796734255
+Puerto Rico,2017,Unclassified,37.4,1462426,NA,546947.324,1401921,1
+Rhode Island,2017,Unusable,100,383228,Adopted,383228,270257,0.80002901
+South Carolina,2017,High concern,33.1,1459340,Not Adopted,483041.54,772074,0.63425017
+South Dakota,2017,Low concern,0,153649,Adopted,0,N/A,N/A
+Tennessee,2017,Unusable,100,1874073,Not Adopted,1874073,1409266,0.925530224
+Texas,2017,Medium concern,12.9,5939471,Not Adopted,766191.759,3691816,0.914232
+Utah,2017,High concern,37.8,429667,Adopted,162414.126,235408,0.827980135
+Vermont,2017,Medium concern,17.1,208709,Adopted,35689.239,N/A,N/A
+Virgin Islands,2017,Unclassified,22.3,29495,NA,6577.385,,
+Virginia,2017,Low concern,1.4,1436154,Adopted,20106.156,722399,0.666573472
+Washington,2017,Low concern,9.9,2224921,Adopted,220267.179,1611793,0.883304927
+West Virginia,2017,High concern,26.6,685115,Adopted,182240.59,424662,0.814799323
+Wisconsin,2017,Medium concern,15.5,1281867,Not Adopted,198689.385,748090,0.624568991
+Wyoming,2017,Medium concern,20,93965,Not Adopted,18793,N/A,N/A
+Alabama,2018,Unusable,62.2,1357039,Not Adopted,844078.258,N/A,N/A
+Alaska,2018,Low concern,6.7,246721,Adopted,16530.307,N/A,N/A
+Arizona,2018,High concern,33.3,2315662,Adopted,771115.446,"1,560,593",0.843807804
+Arkansas,2018,High concern,26.7,1145237,Adopted,305778.279,N/A,N/A
+California,2018,Low concern,9.4,16929328,Adopted,1591356.832,"10,653,598",0.810754693
+Colorado,2018,High concern,41.6,1656060,Adopted,688920.96,"118,408",0.090886762
+Connecticut,2018,High concern,36.3,1095539,Adopted,397680.657,N/A,N/A
+Delaware,2018,Low concern,0,294210,Adopted,0,"199,645",0.843237878
+District of Columbia,2018,High concern,27.3,293178,Adopted,80037.594,"190,116",0.717462186
+Florida,2018,Medium concern,15.1,5221045,Not Adopted,788377.795,"3,026,316",0.778940633
+Georgia,2018,Medium concern,12.1,2571223,Not Adopted,311117.983,"1,445,804",0.697004787
+Hawaii,2018,High concern,23.2,414149,Adopted,96082.568,"351,685",0.988231757
+Idaho,2018,Medium concern,0.4,367080,Adopted,1468.32,N/A,N/A
+Illinois,2018,Low concern,4.8,3630501,Adopted,174264.048,"2,145,760",0.689934352
+Indiana,2018,Low concern,9.8,1822906,Adopted,178644.788,"1,126,133",0.772623674
+Iowa,2018,High concern,27.6,807497,Adopted,222869.172,"564,492",0.901728564
+Kansas,2018,Unusable,81.1,511320,Not Adopted,414680.52,"357,683",0.85746512
+Kentucky,2018,Medium concern,16.2,1728854,Adopted,280074.348,"1,259,525",0.90924743
+Louisiana,2018,High concern,33,1867906,Adopted,616408.98,"1,384,784",0.844341875
+Maine,2018,Low concern,9.5,325348,Adopted,30908.06,N/A,N/A
+Maryland,2018,Medium concern,19.6,1621405,Adopted,317795.38,"1,169,603",0.834369277
+Massachusetts,2018,High concern,49.2,2244617,Adopted,1104351.564,"746,051",0.39986547
+Michigan,2018,Unusable,93.4,2932475,Adopted,2738931.65,"2,377,009",0.514077495
+Minnesota,2018,Medium concern,19,1342543,Adopted,255083.17,"892,137",0.794655073
+Mississippi,2018,Medium concern,11,879766,Not Adopted,96774.26,"441,782",0.64627979
+Missouri,2018,High concern,42.4,1243510,Adopted,527248.24,"712,335",0.733501657
+Montana,2018,High concern,20,358520,Adopted,71704,N/A,N/A
+Nebraska,2018,Low concern,7.7,311549,Adopted,23989.273,"248,832",0.995105096
+Nevada,2018,Low concern,3.6,875977,Adopted,31535.172,"457,782",0.686781855
+New Hampshire,2018,Medium concern,10.2,252650,Adopted,25770.3,"133,829",0.666313169
+New Jersey,2018,Medium concern,11.2,2116037,Adopted,236996.144,"1,568,277",0.939959879
+New Mexico,2018,Low concern,1.7,978251,Adopted,16630.267,"665,250",0.789953666
+New York,2018,High concern,32.5,8194184,Adopted,2663109.8,"4,547,299",0.73894175
+North Carolina,2018,Low concern,0.8,2582329,Adopted,20658.632,N/A,N/A
+North Dakota,2018,Low concern,0.7,125087,Adopted,875.609,"19,515",0.209743987
+Ohio,2018,Low concern,8.8,3420840,Adopted,301033.92,"2,449,577",0.840177792
+Oklahoma,2018,Low concern,4.6,1003696,Adopted,46170.016,N/A,N/A
+Oregon,2018,High concern,17.3,1301121,Adopted,225093.933,"847,570",0.797497523
+Pennsylvania,2018,Low concern,5.7,3571287,Adopted,203563.359,"2,352,627",0.812066957
+Puerto Rico,2018,Unclassified,31.9,1520951,NA,485183.369,1401921,1
+Rhode Island,2018,Unusable,100,374723,Adopted,374723,"247,983",0.79203756
+South Carolina,2018,High concern,35.6,1464079,Not Adopted,521212.124,"745,469",0.623456661
+South Dakota,2018,Low concern,0,151280,Adopted,0,N/A,N/A
+Tennessee,2018,Unusable,100,1848973,Not Adopted,1848973,"1,386,383",0.918107076
+Texas,2018,Medium concern,13.9,5863666,Not Adopted,815049.574,"3,694,211",0.927748027
+Utah,2018,High concern,41,420699,Adopted,172486.59,"226,893",0.823535176
+Vermont,2018,Medium concern,17.1,201321,Adopted,34425.891,N/A,N/A
+Virgin Islands,2018,Unclassified,22.9,30518,NA,6988.622,,
+Virginia,2018,Low concern,1.6,1485676,Adopted,23770.816,"872,408",0.820609488
+Washington,2018,Low concern,9.1,2184170,Adopted,198759.47,"1,573,493",0.883464679
+West Virginia,2018,High concern,30.9,665242,Adopted,205559.778,"407,193",0.805480606
+Wisconsin,2018,Medium concern,15.7,1387206,Not Adopted,217791.342,"758,442",0.633379348
+Wyoming,2018,High concern,21.5,90501,Not Adopted,19457.715,N/A,N/A
+Alabama,2019,Unusable,62.7,1349590,Not Adopted,846192.93,N/A,N/A
+Alaska,2019,Low concern,6.8,257218,Adopted,17490.824,N/A,N/A
+Arizona,2019,High concern,33.4,2278948,Adopted,761168.632,"1,580,628",0.8430659
+Arkansas,2019,High concern,27.4,1114394,Adopted,305343.956,"45,236",0.0475345
+California,2019,Low concern,9.4,16409556,Adopted,1542498.264,"10,384,817",0.8125641
+Colorado,2019,High concern,40.3,1603587,Adopted,646245.561,"112,938",0.091674
+Connecticut,2019,High concern,37.5,1116974,Adopted,418865.25,N/A,N/A
+Delaware,2019,Low concern,0,294661,Adopted,0,"199,724",0.8418506
+District of Columbia,2019,High concern,27.6,288997,Adopted,79763.172,"194,136",0.7262063
+Florida,2019,Medium concern,15.9,5030666,Not Adopted,799875.894,"2,967,589",0.7782683
+Georgia,2019,Medium concern,13.2,2572964,Not Adopted,339631.248,"1,418,039",0.7395018
+Hawaii,2019,High concern,25.1,402207,Adopted,100953.957,"327,762",0.9996005
+Idaho,2019,Medium concern,0.5,353106,Adopted,1765.53,N/A,N/A
+Illinois,2019,Medium concern,5.6,3475234,Adopted,194613.104,"2,122,611",0.7072334
+Indiana,2019,Medium concern,10.9,1814855,Adopted,197819.195,"1,074,346",0.7347704
+Iowa,2019,High concern,27.5,822491,Adopted,226185.025,"602,684",0.9382793
+Kansas,2019,Unusable,81.2,504291,Not Adopted,409484.292,"341,297",0.8574569
+Kentucky,2019,Medium concern,16.3,1693360,Adopted,276017.68,"1,224,145",0.9045175
+Louisiana,2019,High concern,36.6,1892055,Adopted,692492.13,"1,356,398",0.8362374
+Maine,2019,Medium concern,10.3,354982,Adopted,36563.146,N/A,N/A
+Maryland,2019,High concern,20.6,1608885,Adopted,331430.31,"1,190,456",0.8165184
+Massachusetts,2019,Unusable,50.5,2168237,Adopted,1094959.685,"726,804",0.3973246
+Michigan,2019,Low concern,8.2,2929714,Adopted,240236.548,"2,443,239",0.5183929
+Minnesota,2019,Medium concern,10.2,1323835,Adopted,135031.17,"849,507",0.7828086
+Mississippi,2019,Medium concern,12.3,854126,Not Adopted,105057.498,"436,028",0.6476494
+Missouri,2019,High concern,26.3,1191095,Adopted,313257.985,"596,646",0.6953292
+Montana,2019,High concern,20.8,365042,Adopted,75928.736,N/A,N/A
+Nebraska,2019,Low concern,7.8,310019,Adopted,24181.482,"247,285",0.9956035
+Nevada,2019,Low concern,3.1,865720,Adopted,26837.32,"498,872",0.762222
+New Hampshire,2019,Medium concern,11.5,248008,Adopted,28520.92,"173,073",0.8950678
+New Jersey,2019,Medium concern,10.9,2089164,Adopted,227718.876,"1,498,187",0.9288991
+New Mexico,2019,Low concern,1.6,951881,Adopted,15230.096,"667,641",0.8021687
+New York,2019,High concern,33.6,8276836,Adopted,2781016.896,"4,460,781",0.7264977
+North Carolina,2019,Low concern,0.8,2608120,Adopted,20864.96,N/A,N/A
+North Dakota,2019,Low concern,0.7,122557,Adopted,857.899,"19,692",0.2216844
+Ohio,2019,Low concern,8,3299908,Adopted,263992.64,"2,371,042",0.8398209
+Oklahoma,2019,Low concern,4.3,992390,Adopted,42672.77,N/A,N/A
+Oregon,2019,High concern,16.9,1307612,Adopted,220986.428,"868,229",0.8037892
+Pennsylvania,2019,Low concern,6.2,3612616,Adopted,223982.192,"2,434,956",0.8612335
+Puerto Rico,2019,Unclassified,27.4,1494481,NA,409487.794,"1,331,694",1
+Rhode Island,2019,Unusable,100,288742,Adopted,288742,"258,954",0.8296059
+South Carolina,2019,High concern,37.7,1457354,Not Adopted,549422.458,"801,150",0.6391646
+South Dakota,2019,Low concern,0,148122,Adopted,0,N/A,N/A
+Tennessee,2019,Unusable,100,1762449,Not Adopted,1762449,"1,437,402",0.9998018
+Texas,2019,Medium concern,15,5727848,Not Adopted,859177.2,"3,577,456",0.9223005
+Utah,2019,High concern,43.5,423402,Adopted,184179.87,"215,764",0.7434933
+Vermont,2019,Medium concern,17.6,194577,Adopted,34245.552,N/A,N/A
+Virgin Islands,2019,Unclassified,21.2,32553,NA,6901.236,,
+Virginia,2019,Low concern,4.2,1762877,Adopted,74040.834,"1,274,510",0.8729072
+Washington,2019,Low concern,8.4,2145270,Adopted,180202.68,"1,512,472",0.867898
+West Virginia,2019,High concern,34.4,650417,Adopted,223743.448,"387,376",0.7624131
+Wisconsin,2019,Medium concern,16.3,1371147,Not Adopted,223496.961,"757,892",0.6342283
+Wyoming,2019,High concern,22.3,87779,Not Adopted,19574.717,N/A,N/A
+Alabama,2020,Unusable,71.9,1329830,Not Adopted,956147.77,N/A,N/A
+Alaska,2020,Low concern,7,264798,Adopted,18535.86,N/A,N/A
+Arizona,2020,High concern,33.5,2278986,Adopted,763460.31,"1,711,292",0.85
+Arkansas,2020,High concern,24.6,1105224,Adopted,271885.104,"42,594",0.043
+California,2020,Low concern,9.9,15771129,Adopted,1561341.771,"10,639,267",0.817
+Colorado,2020,High concern,40,1590704,Adopted,636281.6,"129,369",0.098
+Connecticut,2020,High concern,26.8,1146408,Adopted,307237.344,N/A,N/A
+Delaware,2020,Low concern,0,290361,Adopted,0,"211,908",0.852
+District of Columbia,2020,High concern,27.9,291838,Adopted,81422.802,"193,692",0.73
+Florida,2020,Medium concern,16.9,5110778,Not Adopted,863721.482,"3,278,980",0.779
+Georgia,2020,Medium concern,9.4,2596418,Not Adopted,244063.292,"1,585,535",0.693
+Hawaii,2020,High concern,26.1,422265,Adopted,110211.165,"360,277",1
+Idaho,2020,Medium concern,0.6,434785,Adopted,2608.71,N/A,N/A
+Illinois,2020,Medium concern,7.4,3547094,Adopted,262484.956,"2,337,395",0.744
+Indiana,2020,Medium concern,16.8,1920670,Adopted,322672.56,"1,199,990",0.751
+Iowa,2020,High concern,30.9,826072,Adopted,255256.248,"602,684",0.895
+Kansas,2020,Unusable,83.3,496650,Not Adopted,413709.45,"365,104",0.882
+Kentucky,2020,Medium concern,18.8,1822900,Adopted,342705.2,"1,365,246",0.908
+Louisiana,2020,High concern,10.4,1911305,Adopted,198775.72,"1,468,380",0.848
+Maine,2020,Medium concern,11.1,399244,Adopted,44316.084,N/A,N/A
+Maryland,2020,High concern,20.9,1629824,Adopted,340633.216,"1,256,167",0.847
+Massachusetts,2020,High concern,46.8,2126670,Adopted,995281.56,"756,892",0.4
+Michigan,2020,Low concern,8.5,2932554,Adopted,249267.09,"1,927,140",0.749
+Minnesota,2020,Medium concern,10.8,1292628,Adopted,139603.824,"941,818",0.841
+Mississippi,2020,Medium concern,11.5,840420,Not Adopted,96648.3,"450,665",0.639
+Missouri,2020,High concern,20.4,1154215,Adopted,235459.86,"657,492",0.7
+Montana,2020,Medium concern,12.5,313800,Adopted,39225,N/A,N/A
+Nebraska,2020,Low concern,7.5,338575,Adopted,25393.125,"261,222",0.994
+Nevada,2020,Low concern,3.3,873760,Adopted,28834.08,"558,040",0.775
+New Hampshire,2020,Medium concern,12.8,255429,Adopted,32694.912,"190,713",0.908
+New Jersey,2020,Medium concern,10.7,2069466,Adopted,221432.862,"1,587,796",0.943
+New Mexico,2020,Low concern,1.5,956189,Adopted,14342.835,"717,801",0.819
+New York,2020,High concern,33.9,7776481,Adopted,2636227.059,"4,760,049",0.737
+North Carolina,2020,Low concern,0.8,2646293,Adopted,21170.344,N/A,N/A
+North Dakota,2020,Low concern,0.6,123102,Adopted,738.612,"21,497",0.227
+Ohio,2020,Low concern,7.3,3285498,Adopted,239841.354,"2,574,386",0.866
+Oklahoma,2020,Low concern,5.4,1013201,Adopted,54712.854,N/A,N/A
+Oregon,2020,High concern,44.7,1348031,Adopted,602569.857,"968,101",0.835
+Pennsylvania,2020,Low concern,6.6,3624813,Adopted,239237.658,"2,752,390",0.922
+Puerto Rico,2020,Medium concern,19.6,1495777,NA,293172.292,"1,283,091",1
+Rhode Island,2020,Unusable,100,374631,Adopted,374631,"266,861",0.862
+South Carolina,2020,High concern,40.5,1441494,Not Adopted,583805.07,"841,387",0.659
+South Dakota,2020,Low concern,0,144447,Adopted,0,N/A,N/A
+Tennessee,2020,Unusable,100,1802399,Not Adopted,1802399,"1,464,316",0.925
+Texas,2020,Medium concern,14.9,5995602,Not Adopted,893344.698,"4,006,196",0.949
+Utah,2020,High concern,49.8,439300,Adopted,218771.4,"273,388",0.799
+Vermont,2020,Medium concern,18.2,193261,Adopted,35173.502,N/A,N/A
+Virgin Islands,2020,Unclassified,19.8,33756,NA,6683.688,,
+Virginia,2020,Low concern,4.7,1868400,Adopted,87814.8,"1,398,958",0.95
+Washington,2020,Low concern,8,2152771,Adopted,172221.68,"1,607,696",0.878
+West Virginia,2020,Medium concern,17.5,640507,Adopted,112088.725,"429,336",0.804
+Wisconsin,2020,Medium concern,16.3,1403329,Not Adopted,228742.627,"877,612",0.671
+Wyoming,2020,High concern,24.1,83615,Not Adopted,20151.215,N/A,N/A
+Alabama,2021,Medium concern,19.6,1402878,Not Adopted,274964.088,,
+Alaska,2021,Low concern,7.1,272838,Adopted,19371.498,,
+Arizona,2021,High concern,19.6,2437174,Adopted,477686.104,,
+Arkansas,2021,Medium concern,14.9,1152267,Adopted,171687.783,,
+California,2021,Medium concern,11.3,16234603,Adopted,1834510.139,,
+Colorado,2021,Medium concern,12.6,1710550,Adopted,215529.3,,
+Connecticut,2021,High concern,27.3,1223603,Adopted,334043.619,,
+Delaware,2021,Low concern,0,311205,Adopted,0,,
+District of Columbia,2021,High concern,32.5,297695,Adopted,96750.875,,
+Florida,2021,Medium concern,16.4,5510766,Not Adopted,903765.624,,
+Georgia,2021,Low concern,9.9,2767785,Not Adopted,274010.715,,
+Hawaii,2021,High concern,27.3,465405,Adopted,127055.565,,
+Idaho,2021,Medium concern,0.6,477902,Adopted,2867.412,,
+Illinois,2021,Medium concern,8.8,3781977,Adopted,332813.976,,
+Indiana,2021,Medium concern,18,2114996,Adopted,380699.28,,
+Iowa,2021,High concern,30.1,882759,Adopted,265710.459,,
+Kansas,2021,Low concern,9.1,532195,Not Adopted,48429.745,,
+Kentucky,2021,Medium concern,16.8,1873930,Adopted,314820.24,,
+Louisiana,2021,High concern,11.1,2017204,Adopted,223909.644,,
+Maine,2021,Medium concern,11.7,444027,Adopted,51951.159,,
+Maryland,2021,Medium concern,19.2,1733477,Adopted,332827.584,,
+Massachusetts,2021,Unusable,50.5,2266103,Adopted,1144382.015,,
+Michigan,2021,Low concern,5,3094494,Adopted,154724.7,,
+Minnesota,2021,Medium concern,12.1,1386771,Adopted,167799.291,,
+Mississippi,2021,Medium concern,15,886570,Not Adopted,132985.5,,
+Missouri,2021,Low concern,8.2,1352301,Adopted,110888.682,,
+Montana,2021,Medium concern,12.4,326210,Adopted,40450.04,,
+Nebraska,2021,Low concern,7.3,386142,Adopted,28188.366,,
+Nevada,2021,Low concern,3.5,952288,Adopted,33330.08,,
+New Hampshire,2021,Medium concern,10.6,276141,Adopted,29270.946,,
+New Jersey,2021,Medium concern,10.9,2204179,Adopted,240255.511,,
+New Mexico,2021,Low concern,1.5,1001673,Adopted,15025.095,,
+New York,2021,High concern,30.4,8147835,Adopted,2476941.84,,
+North Carolina,2021,Low concern,0.7,2859167,Adopted,20014.169,,
+North Dakota,2021,Low concern,0.6,135002,Adopted,810.012,,
+Ohio,2021,Low concern,7.1,3463424,Adopted,245903.104,,
+Oklahoma,2021,Low concern,5.6,1250460,Adopted,70025.76,,
+Oregon,2021,High concern,24.6,1466932,Adopted,360865.272,,
+Pennsylvania,2021,Low concern,7,3765733,Adopted,263601.31,,
+Puerto Rico,2021,Medium concern,16.8,1561477,NA,262328.136,,
+Rhode Island,2021,High concern,0.4,392600,Adopted,1570.4,,
+South Carolina,2021,High concern,42.7,1527800,Not Adopted,652370.6,,
+South Dakota,2021,Low concern,0,153659,Adopted,0,,
+Tennessee,2021,Unusable,54.9,3132726,Not Adopted,1719866.574,,
+Texas,2021,Medium concern,15.4,6472127,Not Adopted,996707.558,,
+Utah,2021,Unusable,52,502530,Adopted,261315.6,,
+Vermont,2021,Medium concern,18.1,204759,Adopted,37061.379,,
+Virgin Islands,2021,Unclassified,18.9,37494,NA,7086.366,,
+Virginia,2021,Medium concern,5.5,2051907,Adopted,112854.885,,
+Washington,2021,Low concern,7.6,2278131,Adopted,173137.956,,
+West Virginia,2021,Medium concern,17.5,677752,Adopted,118606.6,,
+Wisconsin,2021,Medium concern,11.5,1519807,Not Adopted,174777.805,,
+Wyoming,2021,High concern,25.8,87866,Not Adopted,22669.428,,
+Alabama,2022,Unclassified,19,1488718,Not Adopted,282856.42,,
+Alaska,2022,Unclassified,7.2,282018,Adopted,20305.296,,
+Arizona,2022,Unclassified,18.3,2609315,Adopted,477504.645,,
+Arkansas,2022,Unclassified,12.9,1212425,Adopted,156402.825,,
+California,2022,Unclassified,12.7,17089683,Adopted,2170389.741,,
+Colorado,2022,Unclassified,11.9,1853076,Adopted,220516.044,,
+Connecticut,2022,Unclassified,28.7,1307758,Adopted,375326.546,,
+Delaware,2022,Unclassified,0,333706,Adopted,0,,
+District of Columbia,2022,Unclassified,32.9,311369,Adopted,102440.401,,
+Florida,2022,Unclassified,16.5,6017645,Not Adopted,992911.425,,
+Georgia,2022,Unclassified,10.7,2951088,Not Adopted,315766.416,,
+Hawaii,2022,Unclassified,28.5,490011,Adopted,139653.135,,
+Idaho,2022,Unclassified,1,509290,Adopted,5092.9,,
+Illinois,2022,Unclassified,10.1,3995756,Adopted,403571.356,,
+Indiana,2022,Unclassified,7.5,2293659,Adopted,172024.425,,
+Iowa,2022,Unclassified,30.5,930473,Adopted,283794.265,,
+Kansas,2022,Unclassified,9.5,567501,Not Adopted,53912.595,,
+Kentucky,2022,Unclassified,13.5,1817170,Adopted,245317.95,,
+Louisiana,2022,Unclassified,11.8,2098686,Adopted,247644.948,,
+Maine,2022,Unclassified,12.8,480252,Adopted,61472.256,,
+Maryland,2022,Unclassified,17.7,1835983,Adopted,324968.991,,
+Massachusetts,2022,Unclassified,50.9,2451454,Adopted,1247790.086,,
+Michigan,2022,Unclassified,5.1,3271752,Adopted,166859.352,,
+Minnesota,2022,Unclassified,13.6,1489784,Adopted,202610.624,,
+Mississippi,2022,Unclassified,14.8,923995,Not Adopted,136751.26,,
+Missouri,2022,Unclassified,8.7,1557886,Adopted,135536.082,,
+Montana,2022,Unclassified,12.5,345312,Adopted,43164,,
+Nebraska,2022,Unclassified,4.9,426022,Adopted,20875.078,,
+Nevada,2022,Unclassified,3.6,1034764,Adopted,37251.504,,
+New Hampshire,2022,Unclassified,10.3,292091,Adopted,30085.373,,
+New Jersey,2022,Unclassified,11.7,2346515,Adopted,274542.255,,
+New Mexico,2022,Unclassified,1.7,1038464,Adopted,17653.888,,
+New York,2022,Unclassified,32.7,8581817,Adopted,2806254.159,,
+North Carolina,2022,Unclassified,0.7,3067443,Adopted,21472.101,,
+North Dakota,2022,Unclassified,0.5,144335,Adopted,721.675,,
+Ohio,2022,Unclassified,7.1,3662952,Adopted,260069.592,,
+Oklahoma,2022,Unclassified,5.7,1415590,Adopted,80688.63,,
+Oregon,2022,Unclassified,23,1575788,Adopted,362431.24,,
+Pennsylvania,2022,Unclassified,7.7,4084601,Adopted,314514.277,,
+Puerto Rico,2022,Unclassified,15.5,1614739,NA,250284.545,,
+Rhode Island,2022,Unclassified,0.4,408421,Adopted,1633.684,,
+South Carolina,2022,Unclassified,44.6,1619169,Not Adopted,722149.374,,
+South Dakota,2022,Unclassified,0,163709,Adopted,0,,
+Tennessee,2022,Unclassified,24.3,1972001,Not Adopted,479196.243,,
+Texas,2022,Unclassified,16.5,6940821,Not Adopted,1145235.465,,
+Utah,2022,Unclassified,54.5,555724,Adopted,302869.58,,
+Vermont,2022,Unclassified,18.2,213191,Adopted,38800.762,,
+Virgin Islands,2022,Unclassified,18.4,39181,NA,7209.304,,
+Virginia,2022,Unclassified,6.2,2234515,Adopted,138539.93,,
+Washington,2022,Unclassified,7.3,2414012,Adopted,176222.876,,
+West Virginia,2022,Unclassified,18.2,709938,Adopted,129208.716,,
+Wisconsin,2022,Unclassified,12.1,1619656,Not Adopted,195978.376,,
+Wyoming,2022,Unclassified,29.9,96911,Not Adopted,28976.389,,
